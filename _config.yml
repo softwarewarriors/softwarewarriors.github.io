@@ -1,0 +1,11 @@
+title: <img src="doc/logo.png" alt="Software Warriors" width="400px"/>
+description: ICS 427
+show_downloads: false
+theme: jekyll-theme-cayman
+github:
+  is_project_page: true
+  repository_url: https://github.com/softwarewarriors
+social:
+  type: Organization
+gems:
+  - jekyll-mentions
