@@ -1,7 +1,7 @@
 ## TABLE OF CONTENTS
 ***
-* [OVERVIEW](##overview)
-* [THE TEAM](##the-team)
+* [OVERVIEW](#overview)
+* [THE TEAM](#the-team)
 
 <br/>
 
