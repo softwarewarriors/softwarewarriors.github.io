@@ -30,8 +30,8 @@ Check out our portfolios below!
 
 ## DOCUMENTS
 ***
-* [Our SDL] (doc/sdl.pdf)
-* [Assignment One] (doc/ass1.pdf)
+* [Our SDL](doc/sdl.pdf)
+* [Assignment One](doc/ass1.pdf)
 
 <br/>
 
