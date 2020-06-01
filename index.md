@@ -2,6 +2,8 @@
 ***
 * [OVERVIEW](#overview)
 * [THE TEAM](#the-team)
+* [DOCUMENTS](#documents)
+* [PROGRESS + DEVELOPMENT](#progress--development)
 
 <br/>
 
@@ -20,9 +22,25 @@ Assignments:
 Four ICS students at the University of Hawaii at Manoa.  
 Check out our portfolios below! 
 * [Darlene Agbayani](https://darleneagbayani.github.io/)
-* [Craig Opie](https://craigopie.github.io/)
 * [Julian Kim](https://julianki-cs.github.io/)
+* [Craig Opie](https://craigopie.github.io/)
 * [Joseph Paragas](https://joeparagas.github.io/)
+
+<br/>
+
+## DOCUMENTS
+***
+* [Our SDL] (doc/sdl.pdf)
+* [Assignment One] (doc/ass1.pdf)
+
+<br/>
+
+## PROGRESS + DEVELOPMENT
+***
+Track the team's progress via Milestones:
+* [Security](https://github.com/softwarewarriors/taskjeeves/projects/2)
+* [First Milestone](https://github.com/softwarewarriors/taskjeeves/projects/4)
+
 
 <br/><br/>
 
