@@ -22,9 +22,21 @@ Assignments:
 Four ICS students at the University of Hawaii at Manoa.  
 Check out our portfolios below! 
 * [Darlene Agbayani](https://darleneagbayani.github.io/)
+```
+Responsible for ...
+```
 * [Julian Kim](https://julianki-cs.github.io/)
+```
+Responsible for ...
+```
 * [Craig Opie](https://craigopie.github.io/)
+```
+Responsible for ...
+```
 * [Joseph Paragas](https://joeparagas.github.io/)
+```
+Responsible for ...
+```
 
 <br/>
 
