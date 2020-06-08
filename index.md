@@ -24,10 +24,31 @@ Check out our portfolios below!
 * [Darlene Agbayani](https://darleneagbayani.github.io/)
 ```
 Responsible for ...
+- Assignment 1
+ - Requirements
+   - Security
+   - Privacy
+- Application Logo
+
+- Assignment 2
+ - TaskJeeves
+  - Footer UI
+  - End User License Agreement
+  - Privacy Policy
+  - Security Policy
 ```
 * [Julian Kim](https://julianki-cs.github.io/)
 ```
 Responsible for ...
+- Assignment 1
+ - Threat Modeling 
+
+- Assignment 2
+ - Implementation 
+  - Approved Tools
+  - Static Analysis Tools
+ - TaskJeeves
+  - SignOut Page 
 ```
 * [Craig Opie](https://craigopie.github.io/)
 ```
