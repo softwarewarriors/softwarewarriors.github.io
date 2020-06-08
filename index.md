@@ -70,7 +70,15 @@ Responsible for ...
 * [Joseph Paragas](https://joeparagas.github.io/)
 ```
 Responsible for ...
+- Assignment 1
+ - Design Requirements
+ - Attack Surface Analysis and Reduction
+ - Application Title
+ 
+- Assignment 2
+ - Landing Page UI 
 ```
+
 
 <br/>
 
