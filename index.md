@@ -22,7 +22,7 @@ Assignments:
 Four ICS students at the University of Hawaii at Manoa.  
 Check out our portfolios below! 
 
-* [Darlene Agbayani](https://darleneagbayani.github.io/)
+### [Darlene Agbayani](https://darleneagbayani.github.io/)
 ***
 
 - Assignment 1
@@ -38,7 +38,7 @@ Check out our portfolios below!
     - Security Policy
  
  
-* [Julian Kim](https://julianki-cs.github.io/)
+### [Julian Kim](https://julianki-cs.github.io/)
 ***
 
 - Assignment 1
@@ -52,7 +52,7 @@ Check out our portfolios below!
     - SignOut Page 
   
   
-* [Craig Opie](https://craigopie.github.io/)
+### [Craig Opie](https://craigopie.github.io/)
 ***
 
 - Assignment 1
@@ -72,7 +72,7 @@ Check out our portfolios below!
     - Sceduled meetings / setup communication channels
  
  
-* [Joseph Paragas](https://joeparagas.github.io/)
+### [Joseph Paragas](https://joeparagas.github.io/)
 ***
 
 - Assignment 1
