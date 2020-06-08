@@ -23,7 +23,18 @@ Four ICS students at the University of Hawaii at Manoa.
 Check out our portfolios below! 
 * [Darlene Agbayani](https://darleneagbayani.github.io/)
 ```
-Responsible for ...
+- Assignment 1
+ - Requirements
+   - Security
+   - Privacy
+- Application Logo
+
+- Assignment 2
+ - Footer UI
+ - End User License Agreement
+ - Privacy Policy
+ - Security Policy
+
 ```
 * [Julian Kim](https://julianki-cs.github.io/)
 ```
@@ -31,7 +42,22 @@ Responsible for ...
 ```
 * [Craig Opie](https://craigopie.github.io/)
 ```
-Responsible for ...
+- Assignment 1
+ - Document formatting
+ - Our Team version of the SDL
+ - Sceduled meetings / setup communication channels
+ - Quality Gates
+ - Risk Assessment
+ - Definitions
+
+- Assignment 2
+ - Setup GitHub for the Team
+ - Created issues for the team
+ - Created the two projects in GitHub (M1 and Security)
+ - Created the working backbone meteor app
+ - Created the GitHub Page
+ - Sceduled meetings / setup communication channels
+
 ```
 * [Joseph Paragas](https://joeparagas.github.io/)
 ```
