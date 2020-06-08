@@ -95,6 +95,16 @@ Track the team's progress via Milestones:
 * [Security](https://github.com/softwarewarriors/taskjeeves/projects/2)
 * [First Milestone](https://github.com/softwarewarriors/taskjeeves/projects/4)
 
+![](https://raw.githubusercontent.com/softwarewarriors/taskjeeves/master/doc/landing-page.png)
+
+Task Jeeves is a Meteor application that illustrates:
+
+  * A secure web application deployment using Microsoft's Security Development Lifecycle.
+  * A task management system that allows users to create tasks for productivity purposes.
+  * Allows creating new tasks with due dates.
+  * Allows marking tasks as complete.
+
+The goal of this application is to demonstrate a Meteor development providing a secure directory structure for development and deployment, a set of common extensions to the core framework, and a basic application to implement basic page display, navigation, forms, roles, and collection manipulation.
 
 <br/><br/>
 
