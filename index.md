@@ -36,6 +36,9 @@ Check out our portfolios below!
     - End User License Agreement
     - Privacy Policy
     - Security Policy
+
+- Assignment 3
+    - 
  
  
 ### [Julian Kim](https://julianki-cs.github.io/)
@@ -50,6 +53,9 @@ Check out our portfolios below!
         - Static Analysis Tools
 - TaskJeeves
     - SignOut Page 
+
+- Assignment 3
+    - 
   
   
 ### [Craig Opie](https://craigopie.github.io/)
@@ -70,6 +76,9 @@ Check out our portfolios below!
     - Created the working backbone meteor app
     - Created the GitHub Page
     - Sceduled meetings / setup communication channels
+
+- Assignment 3
+    - 
  
  
 ### [Joseph Paragas](https://joeparagas.github.io/)
@@ -82,6 +91,9 @@ Check out our portfolios below!
  
 - Assignment 2
     - Landing Page UI 
+
+- Assignment 3
+    - 
 
 <br/>
 
