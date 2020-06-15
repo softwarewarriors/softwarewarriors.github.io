@@ -54,8 +54,22 @@ Check out our portfolios below!
 - TaskJeeves
     - SignOut Page 
 
-- Assignment 3
-    - 
+- Assignment 3: 06/07/2020 - 06/14/2020
+    - Progress
+        - Continued progress in implementing functions to the app
+    - Pending
+        - Miscellaneous UI improvements
+        - Ensuring each function works properly 
+        - Miscellaneous Security improvements
+    - Roles and responsibilities
+        - Newly Completed
+            - Signout page redirect 
+            - Reviewing pull requests 
+            - Attack Surface Review 
+        - Current 
+            - Ensuring functionality of app
+        - Next
+            - Security enhancements
   
   
 ### [Craig Opie](https://craigopie.github.io/)
