@@ -106,8 +106,22 @@ Check out our portfolios below!
 - Assignment 2
     - Landing Page UI 
 
-- Assignment 3
-    - 
+- Assignment 3 (06/07/2020 - 06/14/2020)
+    - Progress
+        - Continuing to work the formatting/design of the user profile page
+        - Continuing to work on design of other static pages 
+    - Pending
+        - Edit Profile feature 
+        - UI for the Edit Page
+    - Roles and Responsibilities
+        - Newly completed 
+            - Reviewing Pull Requests
+            - Create Profile Page
+        - Current 
+            - User Profile Page design/format
+        - Next
+            - Edit Page
+         
 
 <br/>
 
