@@ -38,8 +38,26 @@ Check out our portfolios below!
     - Security Policy
 
 - Assignment 3
-    - 
- 
+    - Progress
+        - New UI for landing page
+        - New UI for sign in page
+        - New UI for sign up page
+        - New UI for list tasks page
+        - New UI for add tasks page
+        - New UI for edit tasks page
+    - Pending
+        - Add information to landing page
+        - Change font in navbar
+        - Update formatting on terms, security, and privacy pages
+        - Fix spacing in task list between the tasks
+        - Replace user email in navbar with first name
+    - Roles and responsibilities
+        - Newly completed
+            - UI design
+        - Current
+            - Privacy and security
+        - Next
+            - Approving merge requests
  
 ### [Julian Kim](https://julianki-cs.github.io/)
 ***
@@ -92,8 +110,23 @@ Check out our portfolios below!
     - Sceduled meetings / setup communication channels
 
 - Assignment 3
-    - 
- 
+    - Progress
+        - Made adjustments to the user session to terminate when closing the browser or tab
+        - Implemented a new table to store the user information without having to go the same table where the user's password is stored
+        - Implemented bcrypt to hash and salt the passwords to prevent being stored in plain text
+        - Implemented regular expressions to check for invalid characters during using input
+        - Deployed our web application to https://taskjeeves.meteorapp.com/
+        - Deployed Arachni to evaluate our web application's security
+        - Wrote the Dynamic Analysis portion of our report
+    - Pending
+        - Address the security concerns identified in our Arachni evaluation
+    - Roles and Responsibilities
+        - Newly completed
+            - Approving merge requests
+        - Current
+            - Evaluating security concerns in accordance with the NVD and using the CVSS v3.1 calculation evaluation
+        - Next
+            - Removing depreciated pages and references from our web application
  
 ### [Joseph Paragas](https://joeparagas.github.io/)
 ***
@@ -121,7 +154,6 @@ Check out our portfolios below!
             - User Profile Page design/format
         - Next
             - Edit Page
-         
 
 <br/>
 
